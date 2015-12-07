@@ -1,0 +1,39 @@
+!SESSION 2015-12-07 19:40:40.807 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -data E:\mywork\workspace -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.054
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.132
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.491
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.538
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.616
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.663
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.741
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.787
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.865
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.928
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-12-07 19:40:51.990
+!MESSAGE Installed snippet library: E:\program\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\131\1\.cp\snippets\jsp\struts_tiles_snippets.xml
